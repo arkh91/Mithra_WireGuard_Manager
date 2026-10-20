@@ -1,0 +1,4 @@
+# File: requirements.txt  -  Edit with: vi requirements.txt
+PySide6-Essentials>=6.7
+pyinstaller>=6.0
+pytest
